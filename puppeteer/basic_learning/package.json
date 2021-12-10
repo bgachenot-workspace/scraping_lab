@@ -1,0 +1,31 @@
+{
+  "name": "basic_learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^13.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bgachenot/scraping_lab.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "scraping",
+    "javascript",
+    "headless",
+    "browser"
+  ],
+  "author": "Brandon Gachenot",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/bgachenot/scraping_lab/issues"
+  },
+  "homepage": "https://github.com/bgachenot/scraping_lab#readme"
+}
